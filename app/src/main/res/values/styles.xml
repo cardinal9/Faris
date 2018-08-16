@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+
+    </style>
+
+    <style name="GreenButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:color">#42f442</item>
+    </style>
+
+    <style name="CardStyle" parent="CardView">
+        <item name="cardCornerRadius">15dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="android:divider">#ffff</item>
+        <item name="android:dividerHeight">0px</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+
+    <style name="ListView">
+        <item name="android:divider">#ffff</item>
+        <item name="android:dividerHeight">2dp</item>
+    </style>
+
+    <style name="toolbarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:fontFamily">@font/alpha_echo</item>
+    </style>
+
+</resources>

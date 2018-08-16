@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Faris</string>
+    <string name="practices">Harjoitukset</string>
+    <string name="score_board_button">Tilastot</string>
+    <string name="practices_button">Harjoitukset</string>
+    <string name="guide_button">Ohje</string>
+    <string name="language_1">EN</string>
+    <string name="language_2_button">PR</string>
+    <string name="choose">Valitse aihe</string>
+    <string name="back_button">Takaisin</string>
+    <string name="written_text">Kirjakieli</string>
+    <string name="spoken_text">Puhekieli</string>
+    <string name="quide_text_body">Ohjetekstiä</string>
+    <string name="to_menu_button">Valikkoon</string>
+    <string name="word_to_say" />
+    <string name="word_said" />
+    <string name="speak_button_text">Puhu</string>
+    <string name="speak">Puhu</string>
+    <string name="listen_button">Kuuntele</string>
+    <string name="refresh_text">Uusi sana</string>
+    <string name="word_limit">/ 10</string>
+    <string name="score_points" />
+    <string name="guide_topic">Ohjeet</string>
+
+    <array name="topic_images">
+        <item>@drawable/businesspic</item>
+        <item>@drawable/kitchenpic</item>
+        <item>@drawable/ictpic</item>
+        <item>@drawable/transportationpic</item>
+    </array>
+
+    <string name="home_text">Welcome! Before we begin: make sure you are using headphones and have a cup of coffee with you. This makes your learning much more enjoyable!</string>
+
+    <string name="nav_main">Koti</string>
+    <string name="nav_practice">Harjoitukset</string>
+    <string name="nav_scoreboard">Pisteet</string>
+    <string name="nav_menu">Aiheet</string>
+    <string name="nav_settings">Asetukset</string>
+
+    <string name="business_topic">Business</string>
+    <string name="kitchen_topic">Kitchen</string>
+    <string name="sports_topic">Sports</string>
+    <string name="transportation_topic">Transportation</string>
+    <string name="ict_topic">Technology</string>
+
+    <string-array name="topic_list">
+        <item>Business</item>
+        <item>Kitchen</item>
+        <item>Sports</item>
+        <item>Transportation</item>
+        <item>ICT</item>
+    </string-array>
+
+    <string-array name="flags">
+        <item>FI</item>
+        <item>EN</item>
+        <item>PT</item>
+    </string-array>
+
+    <string name="left_drawer_array">
+        <item>Home</item>
+        <item>Scores</item>
+        <item>Settings</item>
+    </string>
+
+    <string name="kitchen">Kitchen</string>
+    <string name="sport">Sports</string>
+    <string name="transport">Transportation</string>
+    <string name="ict">ICT</string>
+
+    <string-array name="all_array">
+
+    </string-array>
+
+    <string-array name="kitchen_array">
+        <item>Aluminium foil</item>
+        <item>Apron</item>
+        <item>Blender</item>
+        <item>Broiler</item>
+        <item>Carafe</item>
+        <item>Chopsticks</item>
+        <item>Decanter</item>
+        <item>Dishwasher</item>
+        <item>Egg beater</item>
+        <item>Espresso machine</item>
+        <item>Flatware</item>
+        <item>Freezer</item>
+        <item>Garbage bag</item>
+        <item>Grater</item>
+        <item>Honey pot</item>
+        <item>Hot plate</item>
+    </string-array>
+
+    <string-array name="ict_array">
+        <item>Application</item>
+        <item>Boot</item>
+        <item>Database</item>
+        <item>Desktop</item>
+        <item>Hard drive</item>
+        <item>Firewall</item>
+        <item>Folder</item>
+        <item>Keyboard</item>
+        <item>Modem</item>
+        <item>Monitor</item>
+        <item>Server</item>
+        <item>Virus</item>
+        <item>Intranet</item>
+        <item>Subfolder</item>
+        <item>Processing</item>
+        <item>Byte</item>
+    </string-array>
+
+    <string-array name="business_array">
+        <item>Advertise</item>
+        <item>Arbitration</item>
+        <item>Briefcase</item>
+        <item>Bookkeeping</item>
+        <item>Commerce</item>
+        <item>Corporation</item>
+        <item>Deflation</item>
+        <item>Distribution</item>
+        <item>Economics</item>
+        <item>Enterpreneur</item>
+        <item>Facility</item>
+        <item>Financial</item>
+        <item>Graph</item>
+        <item>Growth</item>
+        <item>Headquarters</item>
+        <item>Hire</item>
+    </string-array>
+
+    <string-array name="sports_array">
+        <item>Archery</item>
+        <item>Athlete</item>
+        <item>Badminton</item>
+        <item>Boxing</item>
+        <item>Champion</item>
+        <item>Competition</item>
+        <item>Deadlifting</item>
+        <item>Dodgeball</item>
+        <item>Equestrian</item>
+        <item>Exercise</item>
+        <item>Fencing</item>
+        <item>Fitness</item>
+        <item>Goalie</item>
+        <item>Gymnastics</item>
+        <item>Handball</item>
+        <item>Hurdle</item>
+    </string-array>
+
+    <string-array name="transportation_array">
+        <item>Aircraft</item>
+        <item>Automobile</item>
+        <item>Balloon</item>
+        <item>Bulldozer</item>
+        <item>Caravel</item>
+        <item>Crane</item>
+        <item>Dogsled</item>
+        <item>Delivery truck</item>
+        <item>Electric car</item>
+        <item>Engine</item>
+        <item>Ferry</item>
+        <item>Frigate</item>
+        <item>Galleon</item>
+        <item>Gondola</item>
+        <item>Harvester</item>
+        <item>Helicopter</item>
+    </string-array>
+
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_guide">Ohje</string>
+    <string name="practice_title">Harjoitus</string>
+    <string name="choose_topic">Valitse aihe</string>
+    <string name="scoreboard_topic">Tulokset</string>
+    <string name="user_score_text">Tulos:</string>
+    <string name="try_again">Uusi yritys?</string>
+    <string name="score_title">Tulokset</string>
+    <string name="current_score">Pisteet:</string>
+    <string name="count_count">/ 10</string>
+    <string name="scores_base_value">Pisteet: 000</string>
+
+</resources>

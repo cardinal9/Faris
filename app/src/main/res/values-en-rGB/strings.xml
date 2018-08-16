@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="practices">Practices</string>
+    <string name="score_board_button">Scoreboard</string>
+    <string name="practices_button">Practices</string>
+    <string name="guide_button">Guide</string>
+    <string name="choose">Choose a topic</string>
+    <string name="back_button">Back</string>
+    <string name="written_text">Written language</string>
+    <string name="spoken_text">Spoken language</string>
+    <string name="to_menu_button">Menu</string>
+    <string name="quide_text_body">Guidetext</string>
+    <string name="speak_button_text">Speak</string>
+    <string name="speak">Speak now</string>
+    <string name="listen_button">Listen</string>
+    <string name="refresh_text">New word</string>
+    <string name="nav_main">Home</string>
+    <string name="nav_practice">Practices</string>
+    <string name="guide_topic">Guide</string>
+    <string name="nav_scoreboard">Scoreboard</string>
+    <string name="nav_menu">Topics</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_guide">Guide</string>
+    <string name="practice_title">Practice</string>
+    <string name="choose_topic">Choose a topic</string>
+    <string name="scoreboard_topic">Scoreboard</string>
+</resources>

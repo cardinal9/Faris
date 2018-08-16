@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/alegreya</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/antic_didone</item>
+        <item>@font/arbutus</item>
+        <item>@font/atomic_age</item>
+        <item>@font/bangers</item>
+        <item>@font/bevan</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_outline</item>
+        <item>@font/condiment</item>
+        <item>@font/geostar_fill</item>
+        <item>@font/gochi_hand</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/limelight</item>
+        <item>@font/londrina_shadow</item>
+        <item>@font/londrina_sketch</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/titan_one</item>
+        <item>@font/trade_winds</item>
+        <item>@font/vast_shadow</item>
+    </array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1097FF</color>
+    <color name="colorPrimaryDark">#003D6B</color>
+    <color name="colorAccent">#ff795b</color>
+
+    <color name="white">#f7f7f7</color>
+    <color name="textBackground">#f9f4db</color>
+    <color name="bodyText">#9D99AB</color>
+
+    <color name="colorPurple_A400">#D500F9</color>
+    <color name="colorPurple_900">#4A148C</color>
+    <!-- ./ 1st Gradient color -->
+
+    <!-- 2nd Gradient color -->
+    <color name="colorAmber_A400">#FFC400</color>
+    <color name="colorAmber_900">#FF6F00</color>
+    <!-- ./ 2nd Gradient color -->
+
+    <!-- 3rd Gradient color -->
+    <color name="colorGreen_A400">#00E676</color>
+    <color name="colorGreen_900">#1B5E20</color>
+    <!-- ./ 3rd Gradient color -->
+
+    <!-- 4th Gradient color -->
+    <color name="colorRed_A400">#FF1744</color>
+    <color name="colorRed_900">#B71C1C</color>
+
+    <color name="color_neva">#a1c4fd</color>
+    <color name="color_neva_end">#c2e9fb</color>
+
+    <color name="color_petersburg">#f5f7fa</color>
+    <color name="color_petersburg_end">#c3cfe2</color>
+
+    <color name="color_graylight">#8e9eab</color>
+    <color name="color_graylight_end">#eef2f3</color>
+
+    <color name="kyotoRed">#c21500</color>
+    <color name="kyotoOrange">#ffc500</color>
+
+</resources>
