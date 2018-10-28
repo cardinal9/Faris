@@ -181,5 +181,9 @@
     <string name="current_score">Pisteet:</string>
     <string name="count_count">/ 10</string>
     <string name="scores_base_value">Pisteet: 000</string>
+    <string name="to_topic_selection">Aiheet</string>
+    <string name="choose_topics">Topic selection</string>
+    <string name="to_topics">Topics</string>
+    <string name="scoreboard">Scoreboard</string>
 
 </resources>

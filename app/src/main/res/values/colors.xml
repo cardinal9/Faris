@@ -7,6 +7,7 @@
     <color name="white">#f7f7f7</color>
     <color name="textBackground">#f9f4db</color>
     <color name="bodyText">#9D99AB</color>
+    <color name="bodyText1">#004e8a</color>
 
     <color name="colorPurple_A400">#D500F9</color>
     <color name="colorPurple_900">#4A148C</color>
@@ -37,5 +38,8 @@
 
     <color name="kyotoRed">#c21500</color>
     <color name="kyotoOrange">#ffc500</color>
+
+    <color name="blueberry">#00b4db</color>
+    <color name="blueberry_end">#0083b0</color>
 
 </resources>
